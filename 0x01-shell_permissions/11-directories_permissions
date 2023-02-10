@@ -1,0 +1,2 @@
+!/binii/bash
+chmod -R ugo+X
